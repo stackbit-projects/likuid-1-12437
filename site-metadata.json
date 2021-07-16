@@ -2,7 +2,7 @@
     "layout_type": "full-width",
     "style": "bold",
     "palette": "gray",
-    "mode": "light",
+    "mode": "dark",
     "base_font": "serif",
     "header": {
         "title": "Startup",
